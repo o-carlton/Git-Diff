@@ -28,7 +28,7 @@ namespace ObjectOrientedAssignment3
             };
 
             //If the user only types help
-            if (cInput.Length == 1)›
+            if (cInput.Length == 1)
             {
                 Highlighter.Yellow("Type Help <command> for more info:");
                 Console.WriteLine("");
